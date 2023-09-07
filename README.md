@@ -4,12 +4,4 @@ This is a repository of repositories for the Blazor Puzzle podcast show on YouTu
 
 Each episode starts with a recap and discussion of the previous puzzle's solution and then introduces the next puzzle to be solved.
 
-Check out our growing collection of puzzles and let us know how many YOU can solve:
-
-| Episode | Puzzle Source Code |
-| --- | --- |
-| [Introducing Blazor Puzzle](https://www.youtube.com/watch?v=BuB3mRHHIX8) | [Puzzle 1](https://github.com/BlazorPuzzle/Puzzle-1) |
-| [The State of Blazor](https://www.youtube.com/watch?v=9gom0_Tf0Fo) | [Puzzle 2](https://github.com/BlazorPuzzle/Puzzle-2) |
-| [File Not Found?](https://www.youtube.com/watch?v=QMw9GgiU_Ng) | [Puzzle 3](https://github.com/BlazorPuzzle/Puzzle-3) |
-
 Repositories with puzzles are marked as archived to keep the state of the puzzle intact for all puzzle solvers.
