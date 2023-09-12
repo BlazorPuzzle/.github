@@ -17,4 +17,4 @@ Repositories with puzzles are marked as archived to keep the state of the puzzle
 
 A random winner is chosen for each puzzle and will be awarded a Blazor Puzzle Mug
 
-![Blazor Puzzle Mug](https://raw.githubusercontent.com/BlazorPuzzle/.github/main/img/mug.png))
+![Blazor Puzzle Mug](https://raw.githubusercontent.com/BlazorPuzzle/.github/main/img/mug.png)
