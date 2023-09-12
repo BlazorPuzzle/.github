@@ -11,6 +11,9 @@ Check out our growing collection of puzzles and let us know how many YOU can sol
 | [Introducing Blazor Puzzle](https://www.youtube.com/watch?v=BuB3mRHHIX8) | [Puzzle 1](https://github.com/BlazorPuzzle/Puzzle-1) |
 | [The State of Blazor](https://www.youtube.com/watch?v=9gom0_Tf0Fo) | [Puzzle 2](https://github.com/BlazorPuzzle/Puzzle-2) |
 | [File Not Found?](https://www.youtube.com/watch?v=QMw9GgiU_Ng) | [Puzzle 3](https://github.com/BlazorPuzzle/Puzzle-3) |
-| [Lady Loading Problems](https://youtu.be/KvR6nuKLBak) | [Puzzle 4](https://github.com/BlazorPuzzle/Puzzle-4) |
+| [Lady Not Loading](https://youtu.be/KvR6nuKLBak) | [Puzzle 4](https://github.com/BlazorPuzzle/Puzzle-4) |
 
 Repositories with puzzles are marked as archived to keep the state of the puzzle intact for all puzzle solvers.
+
+A random winner is chosen for each puzzle and will be awarded a Blazor Puzzle Mug
+![Blazor Puzzle Mug](../img/mug.png)

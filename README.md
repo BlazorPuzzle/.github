@@ -4,4 +4,8 @@ This is a repository of repositories for the Blazor Puzzle podcast show on YouTu
 
 Each episode starts with a recap and discussion of the previous puzzle's solution and then introduces the next puzzle to be solved.
 
+A random winner is chosen for each puzzle and will be awarded a Blazor Puzzle Mug
+![Blazor Puzzle Mug](img/mug.png)
+
+
 Repositories with puzzles are marked as archived to keep the state of the puzzle intact for all puzzle solvers.
