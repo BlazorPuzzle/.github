@@ -12,6 +12,7 @@ Check out our growing collection of puzzles and let us know how many YOU can sol
 | [The State of Blazor](https://www.youtube.com/watch?v=9gom0_Tf0Fo) | [Puzzle 2](https://github.com/BlazorPuzzle/Puzzle-2) |
 | [File Not Found?](https://www.youtube.com/watch?v=QMw9GgiU_Ng) | [Puzzle 3](https://github.com/BlazorPuzzle/Puzzle-3) |
 | [Lazy Not Loading](https://youtu.be/KvR6nuKLBak) | [Puzzle 4](https://github.com/BlazorPuzzle/Puzzle-4) |
+| [Get a Little Culture](https://www.youtube.com/live/UxosZSrZCQk?si=eZCOhHjokeG-qBhS) | [Puzzle 5](https://github.com/BlazorPuzzle/Puzzle-5)  |
 
 Repositories with puzzles are marked as archived to keep the state of the puzzle intact for all puzzle solvers.
 
