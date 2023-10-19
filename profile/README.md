@@ -14,7 +14,7 @@ Check out our growing collection of puzzles and let us know how many YOU can sol
 | [Lazy Not Loading](https://youtu.be/KvR6nuKLBak) | [Puzzle 4](https://github.com/BlazorPuzzle/Puzzle-4) |
 | [Get a Little Culture](https://www.youtube.com/live/UxosZSrZCQk?si=eZCOhHjokeG-qBhS) | [Puzzle 5](https://github.com/BlazorPuzzle/Puzzle-5)  |
 | [A Parameter Problem](https://www.youtube.com/live/AbwdSEaUYQw?si=dplPVRwyAxJy4re5) | [Puzzle 6](https://github.com/BlazorPuzzle/Puzzle-6) |
-| [A Parameter Problem, Part 2](https://www.youtube.com/watch?v=LLunUib4AGE) | [Puzzle 7](https://github.com/BlazorPuzzle/Puzzle-7) |
+| [A Parameter Problem, Part 2](https://www.youtube.com/watch?v=LLunUib4AGE) | [Puzzle 7](https://github.com/BlazorPuzzle/Puzzle-7) |[Puzzle 8](https://github.com/BlazorPuzzle/Puzzle-8) |
 
 Repositories with puzzles are marked as archived to keep the state of the puzzle intact for all puzzle solvers.
 
