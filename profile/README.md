@@ -17,9 +17,12 @@ Check out our growing collection of puzzles and let us know how many YOU can sol
 | [A Parameter Problem, Part 2](https://www.youtube.com/watch?v=LLunUib4AGE) | [Puzzle 7](https://github.com/BlazorPuzzle/Puzzle-7) |
 | [A Printing Puzzle](https://www.youtube.com/live/M5sNRlq2R2s?si=IFRPzNm3q2GoGe0H) | [Puzzle 8](https://github.com/BlazorPuzzle/Puzzle-8) |
 | [A Matter of Focus](https://youtu.be/5OVEktC_h0M) | [Puzzle 9](https://github.com/BlazorPuzzle/Puzzle-9) |
+| [Stop the Rendering](https://youtu.be/I5sZWpOvmdE) | [Puzzle 10](https://github.com/BlazorPuzzle/Puzzle-10) |
+| [Build a Better State Bag](https://youtu.be/vyXdecfHCaU) | [Puzzle 11](https://github.com/BlazorPuzzle/Puzzle-11) |
 
 Repositories with puzzles are marked as archived to keep the state of the puzzle intact for all puzzle solvers.
 
 A random winner is chosen for each puzzle and will be awarded a Blazor Puzzle Mug
 
 ![Blazor Puzzle Mug](https://raw.githubusercontent.com/BlazorPuzzle/.github/main/img/mug.png)
+
