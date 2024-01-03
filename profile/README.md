@@ -19,6 +19,12 @@ Check out our growing collection of puzzles and let us know how many YOU can sol
 | [A Matter of Focus](https://youtu.be/5OVEktC_h0M) | [Puzzle 9](https://github.com/BlazorPuzzle/Puzzle-9) |
 | [Stop the Rendering](https://youtu.be/I5sZWpOvmdE) | [Puzzle 10](https://github.com/BlazorPuzzle/Puzzle-10) |
 | [Build a Better State Bag](https://youtu.be/vyXdecfHCaU) | [Puzzle 11](https://github.com/BlazorPuzzle/Puzzle-11) |
+| [Build a better background task](https://www.youtube.com/watch?v=ZgjNtMGyfMY) | [Puzzle 12](https://github.com/BlazorPuzzle/Puzzle-12) |
+| [Upgrade this app!](https://www.youtube.com/watch?v=fxGEVS2Gcyo) | [Puzzle 13](https://github.com/BlazorPuzzle/Puzzle-13) |
+| [Simple App Doesn't Work](https://youtu.be/FZ5QtXmGmv4) | [Puzzle 14](https://github.com/BlazorPuzzle/Puzzle-14) |
+| [Unexpected Behavior](https://youtu.be/AXUeCHraVWY) | [Puzzle 15](https://github.com/BlazorPuzzle/Puzzle-15) |
+| [No Message for You!](https://youtu.be/CYfKMUwHZfA) | [Puzzle 16](https://github.com/BlazorPuzzle/Puzzle-16) |
+| [Weather or Not](https://youtu.be/rJehC0sDeSI) | [Puzzle 17](https://github.com/BlazorPuzzle/Puzzle-17) |
 
 Repositories with puzzles are marked as archived to keep the state of the puzzle intact for all puzzle solvers.
 
